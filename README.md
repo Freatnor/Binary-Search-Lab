@@ -1,3 +1,13 @@
+##Joey, Wan, and Jonathan Lab##
+###Binary Searches###
+![](https://github.com/Freatnor/Binary-Search-Lab/blob/master/Photos/IMG_20160830_114128121.jpg)
+![](https://github.com/Freatnor/Binary-Search-Lab/blob/master/Photos/IMG_20160830_114438813.jpg)
+![](https://github.com/Freatnor/Binary-Search-Lab/blob/master/Photos/IMG_20160830_115320245.jpg)
+###Binary Search Tree###
+![](https://github.com/Freatnor/Binary-Search-Lab/blob/master/Photos/IMG_20160830_114339703.jpg)
+
+
+
 ---
 title: Searching Lab
 type: lab
